@@ -3,7 +3,7 @@
 import { useState, useEffect } from 'react'
 import { supabase } from './supabase'
 import Layout      from './components/Layout'
-import Login       from './modules/Login'
+import Login       from './modules/login'
 import Dashboard   from './modules/Dashboard'
 import Masters     from './modules/Masters'
 import SeatMatrix  from './modules/SeatMatrix'
