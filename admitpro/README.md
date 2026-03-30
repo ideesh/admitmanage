@@ -1,5 +1,11 @@
 # AdmitManage 🎓
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 A modern admission management system built with React and Supabase. Designed to streamline the admission process with role-based access for Admins, Admission Officers, and Management.
 
 🔗 **Live Demo:** [admitmanage.vercel.app](https://admitmanage-45ef-elyd29iec-ideeshs-projects.vercel.app/)
@@ -110,10 +116,26 @@ admitmanage/
 
 ---
 
-## 📄 License
+## 🤝 Contributing
 
-This project is for educational and internal use.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-> Built with ❤️ using React + Supabase
+## 🙏 Acknowledgements
+
+- [Supabase](https://supabase.com/) — Backend & Authentication
+- [Vercel](https://vercel.com/) — Hosting & Deployment
+- [Tailwind CSS](https://tailwindcss.com/) — Styling
+- [Vite](https://vitejs.dev/) — Build Tool
+- [React](https://react.dev/) — UI Framework
+
+---
+
+## 📄 License
+
+This project is developed and owned by **Ideesh**. For educational and internal use only.
+
+---
+
+> Built with ❤️ using React + Supabase by **Ideesh**
